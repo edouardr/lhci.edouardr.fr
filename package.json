@@ -1,0 +1,23 @@
+{
+  "name": "lhci.edouardr.fr",
+  "version": "1.0.0",
+  "description": "lhci.edouardr.fr",
+  "main": "index.js",
+  "dependencies": {
+    "@lhci/server": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edouardr/lhci.edouardr.fr.git"
+  },
+  "author": "Edouard R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edouardr/lhci.edouardr.fr/issues"
+  },
+  "homepage": "https://github.com/edouardr/lhci.edouardr.fr#readme"
+}
