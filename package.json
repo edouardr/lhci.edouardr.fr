@@ -4,7 +4,7 @@
   "description": "lhci.edouardr.fr",
   "main": "index.js",
   "dependencies": {
-    "@lhci/server": "^0.4.0",
+    "@lhci/server": "^0.9.0",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {},
